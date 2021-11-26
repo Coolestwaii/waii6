@@ -1,6 +1,7 @@
 #include <iostream>
 #include <cmath>
 
+
 using namespace std;
 
 double deg2rad(double deg){
